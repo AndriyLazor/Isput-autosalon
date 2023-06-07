@@ -1,0 +1,78 @@
+Category: Math
+Questions:
+
+What is a set?
+
+Define the cardinality of a set.
+Possible Answers:
+
+(Correct) A) A set is a well-defined collection of distinct objects.
+B) A set is a mathematical operation involving addition and subtraction
+C) A set is a subset of another set.
+
+A) The cardinality of a set is the sum of all its elements.
+(Correct) B) The cardinality of a set is the number of elements in the set.
+C) Cardinality refers to the order or arrangement of elements in a set.
+Answers:
+A
+B
+
+Category: Math
+Questions:
+
+What is the definition of a limit of a function?
+
+What is the derivative of the function f(x) = 3x^2 + 2x - 1?
+Possible Answers:
+
+A) The slope of the tangent line to the function at a given point.
+(Correct) B) The value that a function approaches as the input approaches a certain value
+C) The maximum value of the function over a specific interval.
+
+A) f'(x) = 6x - 1
+B) f'(x) = 3x^2 + 2x
+(Correct) C) f'(x) = 6x + 2
+Answers:
+B
+C
+
+Category: Physics
+Questions:
+
+What is the Heisenberg uncertainty principle?
+
+What is quantum tunneling?
+Possible Answers:
+
+(Correct) A) The principle that states the position and momentum of a particle cannot be simultaneously known with absolute precision.
+B) The principle that describes the energy levels of electrons in an atom.
+C) The principle that explains the behavior of waves in quantum mechanics
+
+A) The process of particles colliding and merging to form a new particle.
+(Correct) B) The phenomenon where particles can pass through potential energy barriers even when they do not have enough energy to overcome them classically.
+C) The behavior of particles as both particles and waves.
+Answers:
+A
+B
+
+Category: Physics
+Questions:
+
+What is Newton's second law of motion?
+
+What is the formula to calculate kinetic energy?
+Possible Answers:
+
+A) The force acting on an object is equal to its mass divided by its acceleration.
+B) The force acting on an object is equal to its mass multiplied by its velocity.
+(Correct) C) The force acting on an object is equal to the product of its mass and acceleration.
+
+(Correct) A) KE = (1/2)mv^2
+B) KE = mgh
+C) KE = Fd
+Answers:
+C
+A
+
+
+
